@@ -1,0 +1,10 @@
+# Local machine files
+.DS_Store
+Thumbs.db
+.env
+.env.*
+!.env.example
+
+# Java compiler output; keep the bundled Gson JAR
+/out/
+*.class
